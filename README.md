@@ -16,3 +16,9 @@ the entire device of everything except the google chrome browser, and it's sole 
 You might be asking yourself, why didn't you just a script that would automatically refresh the page for you? 
 Well to put it simply, that's just too boring and I wanted to make a modern looking design while looking at 
 the weather everyday.
+
+- ## Where did I get the weather information for my application?
+
+## Before vs After
+![alt text](https://github.com/d3v0psdan/edmonton-weather/blob/main/OldWeather.jpg)
+![alt text](https://github.com/d3v0psdan/edmonton-weather/blob/main/NewWeather.jpg)
