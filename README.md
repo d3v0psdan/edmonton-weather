@@ -18,6 +18,7 @@ Well to put it simply, that's just too boring and I wanted to make a modern look
 the weather everyday.
 
 - ## Where did I get the weather information for my application?
+![alt text](https://github.com/d3v0psdan/edmonton-weather/blob/main/Weather_Information.png)
 
 ## Before vs After
 ![alt text](https://github.com/d3v0psdan/edmonton-weather/blob/main/OldWeather.jpg)
